@@ -44,6 +44,9 @@ h2{
 .links{
     float: right;
 }
+img{
+    float: left;
+}
 .content{
     background: white;
     border-top: 80px;
@@ -57,6 +60,7 @@ footer{
     text-align: center;
     width: 100%;
     padding-top: 35px;
+    margin-top: auto;
     /* border: 15px 0px 0px 0px;
     border-color: teal; */
     
