@@ -66,6 +66,8 @@ footer{
     
 }
 .footerborder{
+    position: sticky;
+    bottom: 0;
     background-color: teal;
     margin-top: 480px;
     width: 100%;
